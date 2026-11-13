@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_red">#FFC62828</color>
+    <color name="text_red_soft">#FFB24A4A</color>
+    <color name="red_container">#FFFFE1E1</color>
+    <color name="red_surface">#FFFFF6F6</color>
+    <color name="red_outline">#FFE9A7A7</color>
+</resources>

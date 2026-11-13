@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BiMeiLingCalculator" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/text_red</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/red_container</item>
+        <item name="colorOnPrimaryContainer">@color/text_red</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/text_red</item>
+        <item name="android:textColorPrimary">@color/text_red</item>
+        <item name="android:textColorSecondary">@color/text_red_soft</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+
+    <style name="ThemeOverlay.BiMeiLingCalculator.Toolbar" parent="">
+        <item name="android:textColorPrimary">@color/text_red</item>
+        <item name="android:textColorSecondary">@color/text_red_soft</item>
+    </style>
+
+    <style name="CalculatorInputField" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/text_red</item>
+        <item name="hintTextColor">@color/text_red</item>
+        <item name="android:textColorHint">@color/text_red_soft</item>
+        <item name="errorTextColor">@color/text_red</item>
+    </style>
+</resources>

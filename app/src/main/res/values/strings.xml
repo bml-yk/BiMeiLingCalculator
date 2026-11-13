@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">毕美灵2024110101</string>
+    <string name="main_title">双数计算器</string>
+    <string name="student_line">姓名：毕美灵　学号：2024110101</string>
+    <string name="input_instruction">输入两个数，选择一种运算后点击“计算结果”。</string>
+    <string name="left_number_hint">第一个数</string>
+    <string name="right_number_hint">第二个数</string>
+    <string name="operator_title">选择运算</string>
+    <string name="add">加</string>
+    <string name="subtract">减</string>
+    <string name="multiply">乘</string>
+    <string name="divide">除</string>
+    <string name="symbol_add">+</string>
+    <string name="symbol_subtract">−</string>
+    <string name="symbol_multiply">×</string>
+    <string name="symbol_divide">÷</string>
+    <string name="result_placeholder">结果：—</string>
+    <string name="result_format">结果：%1$s</string>
+    <string name="calculate">计算结果</string>
+    <string name="clear">清空</string>
+    <string name="history_hint">计算完成后，点击右上角“历史”可进入第二个 Activity。</string>
+    <string name="error_left_empty">第一个数不能为空</string>
+    <string name="error_right_empty">第二个数不能为空</string>
+    <string name="error_number">请输入有效数字</string>
+    <string name="calculation_error">无法计算：%1$s</string>
+    <string name="history">历史</string>
+    <string name="history_title">历史记录</string>
+    <string name="back">返回计算器</string>
+    <string name="empty_history">暂无计算历史\n完成一次计算后会显示在这里</string>
+    <string name="record_sequence">第 %1$d 次计算</string>
+    <string name="history_result_format">= %1$s</string>
+    <string name="history_item_description">第 %1$d 次计算，%2$s，结果 %3$s</string>
+</resources>
